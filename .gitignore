@@ -1,0 +1,34 @@
+# User-specific files not required
+*.bsa
+*.esm
+*.dll
+*.[Ww]av
+*.[Mm]p3
+*.[Pp]df
+*.exe
+*.[Ii]nk
+*.ini
+*.TXT
+*.txt
+*.[Zz]ip
+
+# Game plugins not required.
+*[Oo]blivion/[Dd]ata/DLCSpellTomes.esp
+*[Oo]blivion/[Dd]ata/DLCBattlehornCastle.esp
+*[Oo]blivion/[Dd]ata/DLCFrostcrag.esp
+*[Oo]blivion/[Dd]ata/DLCHorseArmor.esp
+*[Oo]blivion/[Dd]ata/DLCMehrunesRazor.esp
+*[Oo]blivion/[Dd]ata/DLCOrrery.esp
+*[Oo]blivion/[Dd]ata/DLCShiveringIsles.esp
+*[Oo]blivion/[Dd]ata/DLCThievesDen.esp
+*[Oo]blivion/[Dd]ata/DLCVileLair.esp
+*[Oo]blivion/[Dd]ata/Knights.esp
+
+
+# Game data not required
+[Oo]blivion/[Dd]ata/LSData/
+[Oo]blivion/[Dd]ata/Music/
+[Oo]blivion/[Dd]ata/Shaders/
+[Oo]blivion/[Dd]ata/Textures/
+[Oo]blivion/[Dd]ata/Video/
+[Oo]blivion/[Ll]ex/

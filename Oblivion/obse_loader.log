@@ -1,6 +1,0 @@
-launching editor
-crc = 2F9AC10C
-dll = J:\University Work\Games Design - Year 2\Semester 2\Producing Games\DAC515 - Oblivion\DAC515 - Oblivion\DAC515-Oblivion-Mod\Oblivion\obse_editor_1_2.dll
-using new editor injection method
-remote memory = 001D0000
-old winmain = 0041C500

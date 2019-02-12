@@ -1,0 +1,6 @@
+OBSE: initialize (version = 21.4 010201A0)
+oblivion root = J:\University Work\Games Design - Year 2\Semester 2\Producing Games\DAC515 - Oblivion\DAC515 - Oblivion\DAC515-Oblivion-Mod\Oblivion\
+config path = J:\University Work\Games Design - Year 2\Semester 2\Producing Games\DAC515 - Oblivion\DAC515 - Oblivion\DAC515-Oblivion-Mod\Oblivion\Data\OBSE\obse.ini
+plugin directory = J:\University Work\Games Design - Year 2\Semester 2\Producing Games\DAC515 - Oblivion\DAC515 - Oblivion\DAC515-Oblivion-Mod\Oblivion\Data\OBSE\Plugins\
+patched
+OBSE: deinitialize

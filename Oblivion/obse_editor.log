@@ -1,0 +1,7 @@
+OBSE editor: initialize (version = 21.4 01020000)
+oblivion root = J:\University Work\Games Design - Year 2\Semester 2\Producing Games\DAC515 - Oblivion\DAC515 - Oblivion\DAC515-Oblivion-Mod\Oblivion\
+plugin directory = J:\University Work\Games Design - Year 2\Semester 2\Producing Games\DAC515 - Oblivion\DAC515 - Oblivion\DAC515-Oblivion-Mod\Oblivion\Data\OBSE\Plugins\
+checking plugin J:\University Work\Games Design - Year 2\Semester 2\Producing Games\DAC515 - Oblivion\DAC515 - Oblivion\DAC515-Oblivion-Mod\Oblivion\Data\OBSE\Plugins\\Construction Set Extender.dll
+plugin J:\University Work\Games Design - Year 2\Semester 2\Producing Games\DAC515 - Oblivion\DAC515 - Oblivion\DAC515-Oblivion-Mod\Oblivion\Data\OBSE\Plugins\\Construction Set Extender.dll (00000002 CSE 080119BB) loaded correctly
+patched
+OBSE: deinitialize

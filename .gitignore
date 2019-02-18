@@ -3,7 +3,6 @@
 *.esm
 *.dll
 *.[Ww]av
-*.[Mm]p3
 *.[Pp]df
 *.exe
 *.[Ii]nk
@@ -26,6 +25,13 @@
 
 
 # Game data not required
+[Oo]blivion/[Dd]ata/Docs/
+[Oo]blivion/[Dd]ata/BGSEE/
+[Oo]blivion/[Dd]ata/Backup/
+[Oo]blivion/[Dd]ata/Fonts/
+[Oo]blivion/[Dd]ata/Meshes/
+[Oo]blivion/[Dd]ata/OBSE/
+[Oo]blivion/[Dd]ata/Trees/
 [Oo]blivion/[Dd]ata/LSData/
 [Oo]blivion/[Dd]ata/Music/
 [Oo]blivion/[Dd]ata/Shaders/

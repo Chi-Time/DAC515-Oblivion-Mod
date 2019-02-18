@@ -50,3 +50,7 @@ Oblivion/~\$nstruction Set Extender_readme\.rtf
 *.bak
 
 Oblivion/obse_loader\.log
+
+Oblivion/LipSyncPipeClient\.log
+
+*.lnk
